@@ -47,9 +47,9 @@
 
 .fa-regular{
   position: absolute;
-  font-size: 28px;
-  padding-top: 65px;
-  margin-left: -80px;
+  font-size: 24px;
+  padding-top: 68px;
+  margin-left: -78px;
 }
 
 
@@ -128,4 +128,5 @@
 #bttn2:hover{
   box-shadow: 0px 5px 2px black;
 }
+
 
