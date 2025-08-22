@@ -1,0 +1,130 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: helvetica;
+}
+
+.container {
+  border: 4px solid;
+  width: 400px;
+  height: 100vh;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 15px;
+  text-align: center; 
+  padding: 50px;
+}
+
+.container .top {
+  background-color: whitesmoke;
+  padding: 5px 172px;
+  margin-top: -50px;
+  margin-left: -50px;
+  margin-right: -50px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.top a {
+  margin-left: 180px;
+  text-decoration: none;
+  font-size: 34px;
+  color: black;
+  font-weight: 100;
+  cursor: pointer;
+}
+
+.mainContent h1 {
+  margin-top: 100px;
+  background-color: rgb(185, 231, 185);
+  padding: 5px;
+  width: 41%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fa-regular{
+  position: absolute;
+  font-size: 28px;
+  right: 58%;
+  bottom: 51%;
+}
+
+
+#email {
+  width: 360px;
+  height: 9vh;
+  border-radius: 10px;
+  margin-right: -100px;
+  margin-left: -100px;
+  margin-top: 50px;
+  padding-left: 59px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#bttn1{
+  width: 360px;
+  height: 9vh;
+  border-radius: 30px;
+  margin-right: -100px;
+  margin-left: -100px;
+  margin-top: 25px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  background-color: gray;
+  cursor: no-drop;
+}
+
+.btw {
+  margin-top: 15px;
+}
+
+.btw p {
+  font-weight: lighter;
+}
+
+.btw a {
+  color: black;
+  font-weight: 350;
+}
+
+#or{
+  text-align: center;
+  margin-top: 35px;
+}
+
+#left{
+    border-top: 1px solid black;
+    width: 165px;
+    margin-top: -10px;
+    margin-left: -35px;
+}
+
+#right{
+    border-top: 1px solid black;
+    width: 165px;
+    margin-top: -1px;
+    margin-left: 170px;
+}
+
+#bttn2{
+   width: 360px;
+  height: 7vh;
+  border-radius: 30px;
+  margin-right: -100px;
+  margin-left: -100px;
+  margin-top: 40px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  background-color: white;
+  cursor: pointer;
+}
+
+#bttn2:hover{
+  box-shadow: 0px 5px 2px black;
+}
